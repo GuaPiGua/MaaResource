@@ -1,0 +1,13 @@
+adb-windows.zip
+DirectML.dll
+fastdeploy_ppocr.dll
+filelist.txt
+MAA.exe
+MaaCore.dll
+onnxruntime_maa.dll
+opencv_world4_maa.dll
+adb/
+config/
+debug/
+Python/
+resource/
